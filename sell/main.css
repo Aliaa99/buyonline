@@ -1,0 +1,171 @@
+.row {
+     margin-right: 0px; 
+    margin-left: 0px; 
+}
+#sell {
+display: flex;
+border: 2px solid ghostwhite;
+margin-bottom: 30px;
+
+}
+
+
+.table {
+    width: 50%;
+    max-width: 100%;
+    margin-bottom: 0px;
+    border: 5px solid ghostwhite;
+
+}
+
+.table i {
+ color:gainsboro;
+padding: 5px;
+}
+h20{
+font-weight: bold;
+    padding: 10px;
+}
+h21{
+color:red;
+font-size: 15px;
+padding: 10px;
+
+}
+h22{
+padding: 10px;
+color: gainsboro;
+}
+#sell img{
+width : 50%;
+}
+
+.table td{
+    border: 1px solid ghostwhite;
+
+}
+.table a{
+color: black;
+font-weight: bold;
+font-size: 17px;
+text-align: center;
+}
+.table tbody{
+border-color: ghostwhite;
+}
+
+
+.table-bordered>tbody>tr>td{
+padding-bottom: 20px;
+}
+.table-bordered>thead{
+    border-bottom: 5px solid ghostwhite;
+
+}
+.table-bordered>thead>tr>th{
+    border: 1px solid ghostwhite;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*FOOTER*/
+
+footer {
+    background: black;
+    margin: 0 auto;
+    left: 0;
+    bottom: 0;
+}
+
+.end-menu, .right {
+    color: white;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin: 10px;
+}
+.right {
+    margin-top: 30px;
+    font-size: 18px;
+}
+.end-menu #demo {
+    display: inline;
+}
+
+#demo li {
+    display: inline;
+    margin-left: 10px;
+}
+
+#demo2 li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#demo li img {
+    display: inline;
+}
+
+#sponsoer{
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+#sp {
+    margin-left: 40px;
+    font-size: 15px;
+}
+
+svg{
+    width:10px;
+    position:absolute;
+    height:130px;
+    margin-left:35px;
+}
+
+#aboutfreelance{
+    margin-top: 40px;
+    font-size: 15px; 
+}
+
+.end-menu{
+    margin-bottom: 20px;
+    font-size:15px;
+    margin-left: 30px;
+}
+
+.demo1{
+    list-style-type: disc;
+    color: white;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+#followus{
+    margin-top: 40px;
+    font-size: 15px;
+}
+/*FOOTER*/
+
+
+
+
+
+
+
